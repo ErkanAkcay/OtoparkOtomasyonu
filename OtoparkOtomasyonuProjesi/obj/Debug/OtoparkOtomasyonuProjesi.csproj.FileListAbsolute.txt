@@ -1,0 +1,17 @@
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\bin\Debug\OtoparkOtomasyonuProjesi.exe.config
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\bin\Debug\OtoparkOtomasyonuProjesi.exe
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\bin\Debug\OtoparkOtomasyonuProjesi.pdb
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.csproj.AssemblyReference.cache
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.AraçOtoparkYerleri.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.AraçOtoparkÇıkışı.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.OtoparkAnasayfa.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.Properties.Resources.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.csproj.GenerateResource.cache
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.exe
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.pdb
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.AraçOtoparkKaydı.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.Marka.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.Seri.resources
+C:\Users\erkan\Desktop\vs\OtoparkOtomasyonuProjesi\obj\Debug\OtoparkOtomasyonuProjesi.Satış.resources
